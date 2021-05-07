@@ -7,6 +7,8 @@
 - 📫 Si quieres contactar conmigo [escribeme un email](mailto:codigobase2018@gmail.com).
 - ❤️ También me dejo [invitar a un café](https://ko-fi.com/carlosaguirrev). Eso me mantendrá despierto.
 
+[Ir a la Web.](https://carlosaguirrev.github.io/web/index.html)
+
 <!---
 CarlosAguirreV/CarlosAguirreV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
