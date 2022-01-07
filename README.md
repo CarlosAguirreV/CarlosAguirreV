@@ -5,7 +5,7 @@
 - 🌱 Actualmente trabajo con las tecnologías de: Kotlin, Room, C#, Unity, Inkscape, GIMP, Blender, etc.
 - 💞️ Colaboro con diferentes personas que me aconsejan y ayudan constantemente, eso le da un toque de aire fresco a cada proyecto.
 - 📫 Si quieres contactar conmigo, escribeme un email a codigobase2018&commat;gmail&period;com.
-- ❤️ También me dejo [invitar a un café](https://ko-fi.com/carlosaguirrev). Eso me mantendrá despierto.
+- ❤️ También me dejo [invitar a un café](https://ko-fi.com/lunevix). Eso me mantendrá despierto.
 
 [🌐 Ir a la Web.](https://lunevix.com)
 
